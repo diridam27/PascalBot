@@ -1,0 +1,344 @@
+{
+    "achievements": {
+        "tare-in-oua": {
+    		"title":"Tare în ouă",
+    		"description":"Câștigă de 5 ori la rând"
+    	},
+        "cred-ca-e-de-lemn": {
+    		"title":"Cred că e de lemn",
+    		"description":"Câștigă de 5 ori la rând"
+    	},
+        "daca-nu-ma-gasesti-la-lapte": {
+    		"title":"Dacă nu mă găsești la lapte...",
+    		"description":"Completează colecția de ouă de paște"
+    	},
+        "mai-da-din-oua": {
+    		"title":"Fă schimb cu cineva pentru a vă completa colecțiile",
+    		"description":""
+    	},
+        "eu-sunt-ursul": {
+    		"title":"Eu sunt ursul",
+    		"description":"Înscrie-te la concursul de vopsit ouă"
+    	},
+        "unde-s-doi-puterea-creste": {
+    		"title":"Unde-s doi, puterea crește",
+    		"description":"Găsește un ou cu două gălbenușuri"
+    	},
+        "ai-dat-stramb": {
+    		"title":"Ai dat strâmb!",
+    		"description":"Pierde de 3 ori la rând"
+    	},
+        "omletteDuFromage": {
+    		"title":"Omlette du fromage",
+    		"description":"Pierde de patru ori la rând"
+    	},
+        "proteina": {
+    		"title":"Proteină",
+    		"description":"Sparge suficiente ouă încât să atungi 100 de grame de proteină"
+    	}
+    },
+    "emoaje": {
+    	"rosu": {
+    		"spart": {
+    			"sus": [
+    				"<:ssrosu0:1491556386348335286>",
+    				"<:ssrosu1:1491556384872075365>",
+    				"<:ssrosu2:1491556383504732220>",
+    				"<:ssrosu3:1491556381642330142>"
+    			],
+    			"jos": [
+    				"<:jsrosu0:1491555250400792617>",
+    				"<:jsrosu1:1491555248685453362>",
+    				"<:jsrosu2:1491555247460581406>",
+    				"<:jsrosu3:1491555246021804032>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:strosu0:1491556307176656906>",
+    				"<:strosu1:1491556305981411468>",
+    				"<:strosu2:1491556304672784457>",
+    				"<:strosu3:1491556303146057849>"
+    			],
+    			"jos": [
+    				"<:jtrosu0:1491555303253344357>",
+    				"<:jtrosu1:1491555302020091977>",
+    				"<:jtrosu2:1491555300740829245>",
+    				"<:jtrosu3:1491555298824028323>"
+    			]
+    		}
+    	},
+    	"ucraina": {
+    		"spart": {
+    			"sus": [
+    				"<:ssucraina0:1491556335995850752>",
+    				"<:ssucraina1:1491556334913720470>",
+    				"<:ssucraina2:1491556332959039679>",
+    				"<:ssucraina3:1491556331621187754>"
+    			],
+    			"jos": [
+    				"<:jsucraina0:1491555244507660388>",
+    				"<:jsucraina1:1491555241970372779>",
+    				"<:jsucraina2:1491555230641553438>",
+    				"<:jsucraina3:1491555229316157534>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stucraina0:1491556325283332309>",
+    				"<:stucraina1:1491556323463270513>",
+    				"<:stucraina2:1491556322322415646>",
+    				"<:stucraina3:1491556321143816213>"
+    			],
+    			"jos": [
+    				"<:jtucraina0:1491555314363793428>",
+    				"<:jtucraina1:1491555313201971332>",
+    				"<:jtucraina2:1491555311935295700>",
+    				"<:jtucraina3:1491555310471614595>"
+    			]
+    		}
+    	},
+    	"suceava": {
+    		"spart": {
+    			"sus": [
+    				"<:sssuceava0:1491556370372362531>",
+    				"<:sssuceava1:1491556368828862656>",
+    				"<:sssuceava2:1491556368027488321>",
+    				"<:sssuceava3:1491556366853079122>"
+    			],
+    			"jos": [
+    				"<:jssuceava0:1491555255962308708>",
+    				"<:jssuceava1:1491555254867722352>",
+    				"<:jssuceava2:1491555253449916496>",
+    				"<:jssuceava3:1491555252078383277>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stsuceava0:1491556400344596610>",
+    				"<:stsuceava1:1491556397505183894>",
+    				"<:stsuceava2:1491556395210903813>",
+    				"<:stsuceava3:1491556393625587823>"
+    			],
+    			"jos": [
+    				"<:jtsuceava0:1491555265642762273>",
+    				"<:jtsuceava1:1491555264250511430>",
+    				"<:jtsuceava2:1491555262887231508>",
+    				"<:jtsuceava3:1491555261767221410>"
+    			]
+    		}
+    	},
+    	"rusia": {
+    		"spart": {
+    			"sus": [
+    				"<:ssrusia0:1491556319822352516>",
+    				"<:ssrusia1:1491556318056546427>",
+    				"<:ssrusia2:1491556316735475765>",
+    				"<:ssrusia3:1491556315435372624>"
+    			],
+    			"jos": [
+    				"<:jsrusia0:1491555284697743381>",
+    				"<:jsrusia1:1491555281140973628>",
+    				"<:jsrusia2:1491555279169654916>",
+    				"<:jsrusia3:1491555277202260111>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:strusia0:1491556375485223142>",
+    				"<:strusia1:1491556374247903242>",
+    				"<:strusia2:1491556373039677530>",
+    				"<:strusia3:1491556371777327186>"
+    			],
+    			"jos": [
+    				"<:jtrusia0:1491555320231755927>",
+    				"<:jtrusia1:1491555318478671893>",
+    				"<:jtrusia2:1491555317178433577>",
+    				"<:jtrusia3:1491555316289114282>"
+    			]
+    		}
+    	},
+    	"batik": {
+    		"spart": {
+    			"sus": [
+    				"<:ssbatik0:1491556353846673418>",
+    				"<:ssbatik1:1491556352773062776>",
+    				"<:ssbatik2:1491556351338352820>",
+    				"<:ssbatik3:1491556349602041877>"
+    			],
+    			"jos": [
+    				"<:jsbatik0:1491555309162987632>",
+    				"<:jsbatik1:1491555307384606913>",
+    				"<:jsbatik2:1491555305736114207>",
+    				"<:jsbatik3:1491555304419365138>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stbatik0:1491556380572651560>",
+    				"<:stbatik1:1491556379410960394>",
+    				"<:stbatik2:1491556378110722168>",
+    				"<:stbatik3:1491556376739315882>"
+    			],
+    			"jos": [
+    				"<:jtbatik0:1491555275658887359>",
+    				"<:jtbatik1:1491555270994952413>",
+    				"<:jtbatik2:1491555269593792562>",
+    				"<:jtbatik3:1491555267878584330>"
+    			]
+    		}
+    	},
+    	"viena": {
+    		"spart": {
+    			"sus": [
+    				"<:ssviena0:1491556341607694397>",
+    				"<:ssviena1:1491556340328431750>",
+    				"<:ssviena2:1491556339086921809>",
+    				"<:ssviena3:1491556337543282829>"
+    			],
+    			"jos": [
+    				"<:jsviena0:1491555228237959298>",
+    				"<:jsviena1:1491555226807959562>",
+    				"<:jsviena2:1491555225386090707>",
+    				"<:jsviena3:1491555224274604162>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stviena0:1491556365787992287>",
+    				"<:stviena1:1491556363950624788>",
+    				"<:stviena2:1491556362520498186>",
+    				"<:stviena3:1491556360922333246>"
+    			],
+    			"jos": [
+    				"<:jtviena0:1491555325365719144>",
+    				"<:jtviena1:1491555324241379409>",
+    				"<:jtviena2:1491555323096334466>",
+    				"<:jtviena3:1491555321481793769>"
+    			]
+    		}
+    	},
+    	"washi": {
+    		"spart": {
+    			"sus": [
+    				"<:sswashi0:1491556391813513346>",
+    				"<:sswashi1:1491556390219546654>",
+    				"<:sswashi2:1491556388793618493>",
+    				"<:sswashi3:1491556387409494236>"
+    			],
+    			"jos": [
+    				"<:jswashi0:1491555297834045500>",
+    				"<:jswashi1:1491555296487931935>",
+    				"<:jswashi2:1491555294940102677>",
+    				"<:jswashi3:1491555293820223600>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stwashi0:1491556330442592448>",
+    				"<:stwashi1:1491556328903020605>",
+    				"<:stwashi2:1491556327565295736>",
+    				"<:stwashi3:1491556326449610752>"
+    			],
+    			"jos": [
+    				"<:jtwashi0:1491555292603744265>",
+    				"<:jtwashi1:1491555291488063548>",
+    				"<:jtwashi2:1491555290347470858>",
+    				"<:jtwashi3:1491555286345977967>"
+    			]
+    		}
+    	},
+    	"grecia": {
+    		"spart": {
+    			"sus": [
+    				"<:ssgrecia0:1491556359819493467>",
+    				"<:ssgrecia1:1491556358590566533>",
+    				"<:ssgrecia2:1491556357432676487>",
+    				"<:ssgrecia3:1491556355889172621>"
+    			],
+    			"jos": [
+    				"<:jsgrecia0:1491555223205056603>",
+    				"<:jsgrecia1:1491555221636124763>",
+    				"<:jsgrecia2:1491555220319244359>",
+    				"<:jsgrecia3:1491555219132383232>"
+    			]
+    		},
+    		"tot": {
+    			"sus": [
+    				"<:stgrecia0:1491556313870893176>",
+    				"<:stgrecia1:1491556311807168582>",
+    				"<:stgrecia2:1491556310561325277>",
+    				"<:stgrecia3:1491556308954910820>"
+    			],
+    			"jos": [
+    				"<:jtgrecia0:1491555260492152985>",
+    				"<:jtgrecia1:1491555259364151436>",
+    				"<:jtgrecia2:1491555258302857236>",
+    				"<:jtgrecia3:1491555256759357481>"
+    			]
+    		}
+    	}
+    },
+    "users":
+    {
+        "dirid.am": {
+            "skin": "ucraina",
+            "galbenusuri": 15,
+            "proteina": 150,
+			"streak":0,
+            "achievements":
+            {
+                "tareInOua": false,
+                "credCaEDeLemn": false,
+                "dacaNuMaGasestiLaLapte": false,
+                "maiDaDinOua": false,
+                "euSuntUrsul": false,
+                "undeSDoiPutereaCreste": false,
+                "aiDatStramb": false,
+                "omletteDuFromage": false,
+                "proteina": false
+            },
+            "skinuri":
+            {
+                "rosu": true,
+    	        "batik": false,
+    	        "rusia": false,
+    	        "grecia": false,
+    	        "suceava": true,
+    	        "ucraina": true,
+    	        "viena": false,
+    	        "washi": false
+            }
+        },
+        "oacoacdiridiridam": {
+            "skin": "rosu",
+            "galbenusuri": 0,
+            "proteina": 0,
+			"winningStreak": 0,
+			"losingStreak": 0,
+            "achievements":
+            {
+                "tareInOua": false,
+                "credCaEDeLemn": false,
+                "dacaNuMaGasestiLaLapte": false,
+                "maiDaDinOua": false,
+                "euSuntUrsul": false,
+                "undeSDoiPutereaCreste": false,
+                "aiDatStramb": false,
+                "omletteDuFromage": false,
+                "proteina": false
+            },
+            "skinuri":
+            {
+                "rosu": true,
+    	        "batik": false,
+    	        "rusia": false,
+    	        "grecia": false,
+    	        "suceava": false,
+    	        "ucraina": false,
+    	        "viena": false,
+    	        "washi": false
+            }
+        }
+    }
+}
