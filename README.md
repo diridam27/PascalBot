@@ -1,4 +1,4 @@
-# [PascalBot](https://discord.com/oauth2/authorize?client_id=1097044139469721671&permissions=8&scope=bot%20applications.commands)
-Ciocniți ouă pe Discord cu acest bot.
+# PascalBot
+O recreere a ciocnirii ouălor de Paști pe Discord printr-un bot. Mai multe informații pe [dirid.am/oua](https://dirid.am/oua)
 
-## [Join server](https://ghiocel-games.com/oua)
+## [Join server](https://discord.gg/mxEqY3MA)

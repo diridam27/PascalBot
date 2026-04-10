@@ -1,0 +1,30 @@
+{
+  "name": "pascalbot",
+  "version": "1.0.0",
+  "description": "Un bot de discord pentru ciocnitul de ouă pe Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diridam",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "npm-check-updates": "^20.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diridam27/PascalBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diridam27/PascalBot/issues"
+  },
+  "homepage": "https://github.com/diridam27/PascalBot#readme"
+}
